@@ -16,6 +16,13 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+       metodus();
+        
     }
-    
+
+    static void metodus() {
+        System.out.println("metodus");
+    }
+
 }
